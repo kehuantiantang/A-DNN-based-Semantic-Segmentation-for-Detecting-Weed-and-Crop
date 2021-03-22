@@ -14,7 +14,7 @@ The git lfs has problem about my account, I re-upload the dataset to google clou
 - [test](https://drive.google.com/file/d/1_3ECFQJpY0nDASIhf_Tg9VIme6oOCiHL/view?usp=sharing)
 - [stuttgart](https://drive.google.com/file/d/19chwaYWAYRT5nEduFq896a6BQOsZBvDY/view?usp=sharing)
 
-**Each folder may has *.ypn.npy file, it is the mislabeled file, segmentated weed may small or not fully annotated. You can remove or relabel them for further research**
+**Each folder may has `\*.ypn.npy` file, it is the mislabeled file, segmentated weed may small or not fully annotated. You can remove or relabel them for further research.**
 
 If you find the data is useful for your project, please cite those paper. Thank you so much.
 
